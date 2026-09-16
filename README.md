@@ -55,19 +55,7 @@ Version actuelle : voir le badge Release (ex. `1.1.0-beta.1`).
 | `Suppr` | Corbeille |
 | `F1` | Aide |
 
-## Développement
-
-```bat
-start-dev.bat
-```
-
 Stack : Electron · React · TypeScript · Vite · Zustand · Framer Motion · Tailwind
-
-Publier une version :
-
-```bat
-release.bat
-```
 
 ## Crédits
 
